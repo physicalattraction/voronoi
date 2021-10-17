@@ -1,2 +1,3 @@
-# voronoi
+# Voronoi Tessellations
+
 Voronoi Tessellations
